@@ -1,0 +1,25 @@
+{
+  "name": "langdonse-commerence-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0-beta.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LangdonEcho/langdonsE-commerence-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LangdonEcho/langdonsE-commerence-backend/issues"
+  },
+  "homepage": "https://github.com/LangdonEcho/langdonsE-commerence-backend#readme"
+}
